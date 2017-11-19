@@ -1,21 +1,27 @@
 {
-  "name": "angular-local-store",
-  "version": "0.0.1",
-  "license": "MIT",
-  "scripts": {
-    "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
-    "test": "ng test",
-    "lint": "ng lint",
-    "e2e": "ng e2e"
-  },
-  "private": false,
-  "dependencies": {
-    "@angular/common": "^5.0.1",
-    "@angular/core": "^5.0.1",
-    "rxjs": "^5.5.2",
-    "zone.js": "^0.8.18"
-  },
-  "devDependencies": {}
+    "name": "angular-local-store",
+    "version": "0.0.2",
+    "license": "MIT",
+    "author": "Gagandeep Singh",
+    "keywords": [],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/indiandollar/angular-local-store.git"
+    },
+    "bugs": {
+        "url": "https://github.com/indiandollar/angular-local-store/issues"
+    },
+    "homepage": "https://github.com/indiandollar/angular-local-store",
+    "scripts": {
+        "ng": "ng",
+        "start": "ng serve",
+        "build": "ng build",
+        "test": "ng test",
+        "lint": "ng lint",
+        "e2e": "ng e2e"
+    },
+    "private": false,
+    "dependencies": {
+    },
+    "devDependencies": {}
 }

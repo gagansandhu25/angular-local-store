@@ -16,6 +16,6 @@ export class LocalStoreModule {
           ngModule: LocalStoreModule,
           providers: [ LocalStoreService ]
         }
-      }
+    }
 }
 
